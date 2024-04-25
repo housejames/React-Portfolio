@@ -1,0 +1,38 @@
+.resume-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .resume-heading {
+    text-align: center;
+  }
+  
+  .resume-text {
+    margin-bottom: 10px;
+  }
+  
+  .resume-link {
+    display: block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .resume-link:hover {
+    background-color: salmon;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skill {
+    margin-bottom: 5px;
+  }
+  
